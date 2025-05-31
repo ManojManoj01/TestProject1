@@ -1,1 +1,13 @@
 files is added 
+step 1 - clone the file in github to localhost
+   ---> the create a file clone in two file
+   ---> git clone git origin
+step2- next files is untracte to change to use comment
+   --->git add file_name
+step3- To commit the file (coomit means in submit)
+   --->To user in commit file to the commend in file 
+   ---> git commit -m "text02 file is added
+step4- The file is return the github websit to using commend
+   --->git push origin main
+
+   (clone => Add => Commit => Push )
